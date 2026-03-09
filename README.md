@@ -48,15 +48,24 @@ File included:
 ## Project Structure
 
 Intro_to_NLP
-│
+
+
 ├── 1.1 Lowercase.ipynb
+
 ├── 1.2 Stopwords.ipynb
+
 ├── 1.3 Regular Expressions.ipynb
+
 ├── 1.4 Tokenizing Text.ipynb
+
 ├── 1.5 Stemming.ipynb
+
 ├── 1.6 Lemmatization.ipynb
+
 ├── 1.7 N-grams.ipynb
+
 ├── 1.8 Practical.ipynb
+
 └── tripadvisor_hotel_reviews.xlsx
 
 ## Tools and Libraries
